@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,vscode,idea,electron)](https://skillicons.dev)
 
 I want to learn / I'm currently learning
 
