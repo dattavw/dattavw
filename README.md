@@ -1,8 +1,9 @@
-[![Hola, soy Datta!](https://img.shields.io/badge/Hola,%20soy-Datta!-blue?style=for-the-badge&logo=github)](https://github.com/dattavw)
+[![Hola, soy datta!](https://img.shields.io/badge/Hola,%20soy-Datta!-blue?style=for-the-badge&logo=github)](https://github.com/dattavw)
 
-¡Hola! 👋 Soy Daniel (Datta), un joven de 17 años con una gran pasión por el desarrollo. Me encanta explorar nuevas tecnologías y dar vida a mis ideas a través del código. Actualmente estoy enfocado en seguir aprendiendo y creando proyectos interesantes, con un fuerte énfasis en el desarrollo con Java y el ecosistema JavaScript.
+¡Hola! 👋 Soy Daniel (datta), un joven de 17 años con una gran pasión por el desarrollo. Me encanta explorar nuevas tecnologías y dar vida a mis ideas a través del código. Actualmente estoy enfocado en seguir aprendiendo y creando proyectos interesantes.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,npm,yarn,git,electron,react,astro,spring,maven,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,docker,html,css,sass,tailwindcss,react,vue,nextjs,nuxtjs,svelte,nestjs,express,graphql,angular,rxjs,electron,flutter,dart,mongodb,supabase,prisma,firebase,aws,azure,gcp,discordjs,python,kotlin,rust,go,php,laravel,ruby,rails,spring,django,swift,unity,unrealengine,git,github,gitlab,bitbucket,kubernetes,figma,arduino,raspberrypi,vim,neovim,powershell,bash)](https://skillicons.dev)
+
 [![Mi badge de Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Mi badge de Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/es/)
 [![Mi badge de React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
