@@ -1,6 +1,6 @@
 [![Hola, soy datta!](https://img.shields.io/badge/Hola,%20soy-Datta!-blue?style=for-the-badge&logo=github)](https://github.com/dattavw)
 
-¡Hola! 👋 Soy Daniel (datta), un joven de 17 años con una gran pasión por el desarrollo. Me encanta explorar nuevas tecnologías y dar vida a mis ideas a través del código. Actualmente estoy enfocado en seguir aprendiendo y creando proyectos interesantes.
+¡Hola! 👋 Soy Daniel (datta), un joven de 18 años con una gran pasión por el desarrollo. Me encanta explorar nuevas tecnologías y dar vida a mis ideas a través del código. Actualmente estoy enfocado en seguir aprendiendo y creando proyectos interesantes.
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,linux,docker,html,css,sass,tailwindcss,react,vue,nextjs,nuxtjs,svelte,nestjs,express,graphql,angular,rxjs,electron,flutter,dart,mongodb,supabase,prisma,firebase,aws,azure,gcp,discordjs,python,kotlin,rust,go,php,laravel,ruby,rails,spring,django,swift,unity,unrealengine,git,github,gitlab,bitbucket,kubernetes,figma,arduino,raspberrypi,vim,neovim,powershell,bash)](https://skillicons.dev)
 
