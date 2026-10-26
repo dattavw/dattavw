@@ -3,7 +3,6 @@
 # Hola, soy Daniel 👋
 
 ### Full-Stack Developer
-eligo ser feliz
 
 </div>
 
@@ -16,7 +15,6 @@ eligo ser feliz
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square\&logo=astro\&logoColor=white)
@@ -26,23 +24,15 @@ eligo ser feliz
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square\&logo=redis\&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square\&logo=tauri\&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square\&logo=electron\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper-Plugin_API-1F6FEB?style=flat-square\&logo=java\&logoColor=white)
-![Fabric](https://img.shields.io/badge/Fabric-Modding-DBD0B4?style=flat-square\&logo=java\&logoColor=black)
-![Velocity](https://img.shields.io/badge/Velocity-Proxy-2E72D2?style=flat-square\&logo=java\&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square\&logo=discord\&logoColor=white)
 ![Discord API](https://img.shields.io/badge/Discord_API-5865F2?style=flat-square\&logo=discord\&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-2088FF?style=flat-square\&logo=webhook\&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
@@ -51,26 +41,3 @@ eligo ser feliz
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square\&logo=gradle\&logoColor=white)
 
----
-## stack o herramientas que ya no uso hace tiempo 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
-![Bukkit](https://img.shields.io/badge/Bukkit-Plugin_API-CC8B00?style=flat-square\&logo=java\&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-Plugin_API-ED8106?style=flat-square\&logo=java\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square\&logo=junit5\&logoColor=white)
-![BungeeCord](https://img.shields.io/badge/BungeeCord-Proxy-965A38?style=flat-square\&logo=java\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black) (ya no como main)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square\&logo=firebase\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square\&logo=bun\&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square\&logo=svelte\&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square\&logo=svelte\&logoColor=white)
-![Forge](https://img.shields.io/badge/Forge-Modding-1E1E1E?style=flat-square\&logo=java\&logoColor=white)
-![NeoForge](https://img.shields.io/badge/NeoForge-Modding-F47C20?style=flat-square\&logo=java\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
